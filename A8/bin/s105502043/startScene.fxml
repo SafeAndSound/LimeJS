@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="577.0" prefWidth="963.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fx:id="background" fitHeight="577.0" fitWidth="963.0" opacity="0.5" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="startBt" layoutX="400.0" layoutY="343.0" mnemonicParsing="false" text="開始遊戲">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button fx:id="closeBt" layoutX="400.0" layoutY="451.0" mnemonicParsing="false" text="結束遊戲">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

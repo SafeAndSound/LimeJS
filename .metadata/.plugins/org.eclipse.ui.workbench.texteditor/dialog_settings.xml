@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Stack" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="stack"/>
+			<item value="temp"/>
+			<item value="BASIC"/>
+			<item value="player"/>
+			<item value="basic"/>
+			<item value="OnePunchMan"/>
+			<item value="roadhog"/>
+			<item value="roadhug"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Sakura"/>
+			<item value="Naruto"/>
+			<item value="sasuke"/>
+			<item value="booknumbers"/>
+			<item value="numbers"/>
+			<item value=" == "/>
+			<item value="105502043"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="296" key="DIALOG_WIDTH"/>
+		<item value="1|微軟正黑體|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微軟正黑體" key="DIALOG_FONT_NAME"/>
+		<item value="397" key="DIALOG_HEIGHT"/>
+		<item value="959" key="DIALOG_X_ORIGIN"/>
+		<item value="212" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

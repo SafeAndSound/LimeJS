@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;AWT with JAVAFX/src/AWT&apos; to &apos;AwtCanvasWrapper&apos;" description="Rename resource &apos;AWT&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/AWT" name="AwtCanvasWrapper" stamp="1496397506513" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;AWT with JAVAFX/src/AwtCanvasWrapper/AWT.java&apos; to &apos;AwtCanvasWrapper.java&apos;" description="Rename resource &apos;AWT.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/AwtCanvasWrapper/AWT.java" name="AwtCanvasWrapper.java" stamp="1496397545237" updateReferences="true"/>
+</session>
